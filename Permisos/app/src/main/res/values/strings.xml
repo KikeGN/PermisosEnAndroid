@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="llamar">LLAMAR</string>
+    <string name="tomar">TOMAR FOTO</string>
+</resources>
